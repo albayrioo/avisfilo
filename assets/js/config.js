@@ -1,5 +1,5 @@
 const CONFIG = {
-  brandName: 'Avis Oto Koç',
+  brandName: 'Oto Koç',
   tagline: 'Kurumsal Araç Kiralama Deneyimi',
   callPhone: '05528525655',
   whatsappPhone: '905528525655',
