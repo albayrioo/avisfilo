@@ -1,9 +1,9 @@
 const CONFIG = {
   brandName: 'Avis Oto Koç',
   tagline: 'Kurumsal Araç Kiralama Deneyimi',
-  callPhone: '905528525655',
+  callPhone: '05528525655',
   whatsappPhone: '905528525655',
-  displayCallPhone: '905528525655',
+  displayCallPhone: '05528525655',
   displayWhatsappPhone: '905528525655',
   whatsappBaseMessage: 'Merhaba, araç kiralama hakkında bilgi almak istiyorum.',
   heroImage: 'assets/hero.png',
